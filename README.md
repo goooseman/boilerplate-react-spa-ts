@@ -1,5 +1,9 @@
 # React Typescript SPA Boilerplate
 
+[![Netlify storybooks build](https://api.netlify.com/api/v1/badges/16b8ce18-fd97-4b7d-9ca6-10ea8f3e2084/deploy-status)](https://app.netlify.com/sites/boilerplate-react-spa-ts-storybook/deploys) | [![Dependencies status](https://david-dm.org/goooseman/boilerplate-react-spa-ts/status.svg)](https://david-dm.org/goooseman/boilerplate-react-spa-ts) | [![Dev dependencies status](https://david-dm.org/goooseman/boilerplate-react-spa-ts/dev-status.svg)](https://david-dm.org/goooseman/boilerplate-react-spa-ts?type=dev)
+
+[Storybook Preview](https://boilerplate-react-spa-ts-storybook.goooseman.ru/) | [Project Preview](https://boilerplate-react-spa-ts.goooseman.ru/)
+
 > Handcrafted with love to provide you with the best DX to develop a new SPA project based on React!
 
 <p align="center">
