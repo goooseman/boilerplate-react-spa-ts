@@ -2,9 +2,9 @@
 
 > Handcrafted with love to provide you with the best DX to develop a new SPA project based on React!
 
-<center>
+<p align="center">
   <img src="./public/android-chrome-192x192.png" alt="Logo" />
-</center>
+</p>
 
 ### Quick start
 
