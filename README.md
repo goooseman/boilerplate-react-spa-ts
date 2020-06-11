@@ -2,7 +2,7 @@
 
 [![Netlify storybooks build](https://api.netlify.com/api/v1/badges/16b8ce18-fd97-4b7d-9ca6-10ea8f3e2084/deploy-status)](https://app.netlify.com/sites/boilerplate-react-spa-ts-storybook/deploys) [![Coverage Status](https://coveralls.io/repos/github/goooseman/boilerplate-react-spa-ts/badge.svg?branch=master)](https://coveralls.io/github/goooseman/boilerplate-react-spa-ts?branch=master) ![Tests status](https://github.com/goooseman/boilerplate-react-spa-ts/workflows/Tests/badge.svg) ![Linters status](https://github.com/goooseman/boilerplate-react-spa-ts/workflows/Linters/badge.svg) [![Dependencies status](https://david-dm.org/goooseman/boilerplate-react-spa-ts/status.svg)](https://david-dm.org/goooseman/boilerplate-react-spa-ts) [![Dev dependencies status](https://david-dm.org/goooseman/boilerplate-react-spa-ts/dev-status.svg)](https://david-dm.org/goooseman/boilerplate-react-spa-ts?type=dev)
 
-[Storybook Preview](https://boilerplate-react-spa-ts-storybook.goooseman.ru/) | [Project Preview](https://boilerplate-react-spa-ts.goooseman.ru/)
+[Storybook Preview](https://boilerplate-react-spa-ts.storybooks.goooseman.ru/) | [Project Preview](https://boilerplate-react-spa-ts.goooseman.ru/)
 
 > Handcrafted with love to provide you with the best DX to develop a new SPA project based on React!
 
@@ -54,7 +54,7 @@ The project is **not type-checked during development run-time**, because it shou
 
 #### Storybook 📖
 
-[Storybook tutorial](https://www.learnstorybook.com/) | [Component Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
+[Storybook Preview](https://boilerplate-react-spa-ts.storybooks.goooseman.ru/) | [Storybook tutorial](https://www.learnstorybook.com/) | [Component Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e)
 
 What is **Component Driven Development**?
 
