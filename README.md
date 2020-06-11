@@ -1,8 +1,21 @@
+# React Typescript SPA Boilerplate
+
+> Handcrafted with love to provide you with the best DX to develop a new SPA project based on React!
+
 <center>
   <img src="./public/android-chrome-192x192.png" alt="Logo" />
 </center>
 
 ### Quick start
+
+To start your new project:
+
+1. `git clone https://github.com/goooseman/boilerplate-react-spa-ts.git <YOUR_PROJECT_NAME>`
+1. `cd <YOUR_PROJECT_NAME>`
+1. `git remote set-url origin <YOUR_GIT_URL>` if you want to keep the git history of the boilerplate. Or `rm -rf .git`, `git init` if don't.
+1. Change `name`, `description`, `repository`, `keywords`, `author`, `license`, `bugs`, `homepage` sections of `package.json`.
+
+List of commands:
 
 - `npm start` to start the project in development mode
 - `npm run storybook` to start [storybook](#storybook) in development mode
