@@ -1,7 +1,7 @@
 {
-  "name": "sample-chat-frontend",
-  "version": "0.0.0",
-  "description": "A sample real-time chat built on React",
+  "name": "boilerplate-react-spa-ts",
+  "version": "1.0.0",
+  "description": "A minimalistic react project created to provide an incredible DX. Includes TS, Storybook (CDD), tests (TDD), i18n (with rtl), CSS modules and themes.",
   "private": true,
   "engines": {
     "npm": ">=6.14.0"
@@ -29,21 +29,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/goooseman/sample-chat-frontend.git"
+    "url": "git+ssh://git@github.com/goooseman/boilerplate-react-spa-ts.git"
   },
   "keywords": [
     "react",
-    "chat",
-    "socket.io",
-    "cdd",
-    "tdd"
+    "boilerplate",
+    "CDD",
+    "TDD",
+    "storybook",
+    "tests",
+    "i18n",
+    "CSS-modules"
   ],
   "author": "goooseman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goooseman/sample-chat-frontend/issues"
+    "url": "https://github.com/goooseman/boilerplate-react-spa-ts/issues"
   },
-  "homepage": "https://github.com/goooseman/sample-chat-frontend#readme",
+  "homepage": "https://github.com/goooseman/boilerplate-react-spa-ts#readme",
   "dependencies": {
     "autoprefixer": "^9.8.0",
     "clsx": "^1.1.1",
