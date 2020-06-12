@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: sample-chat-frontend 0.0.0\n"
+"Project-Id-Version: boilerplate-react-spa-ts 1.0.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "POT-Creation-Date: Wed Jun 10 2020 08:42:40 GMT+0300 (Israel Daylight Time)\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,20 +13,20 @@ msgstr ""
 "Last-Translator: \n"
 "Language: he\n"
 
-#: src/pages/HomePage/HomePage.tsx:
+#: src\pages\HomePage\HomePage.tsx:
 msgid "Hello world"
 msgstr "שלום עולם"
 
-#: src/pages/NotFound/NotFound.tsx:
+#: src\pages\NotFound\NotFound.tsx:
 msgid "Ooops... Page not found..."
 msgstr "אופס… הדף לא נמצא…"
 
-#: src/pages/NotFound/NotFound.tsx:
+#: src\pages\NotFound\NotFound.tsx:
 msgid ""
 "The page you are looking for might have been removed, had its name changed, or "
 "is temporarily unavailable."
 msgstr "ייתכן שהדף שאתה מחפש הוסר, אם שמו השתנה או שהוא אינו זמין באופן זמני."
 
-#: src/pages/NotFound/NotFound.tsx:
+#: src\pages\NotFound\NotFound.tsx:
 msgid "Go home"
 msgstr "עבור לאינדקס"
