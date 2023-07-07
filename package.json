@@ -103,7 +103,7 @@
     "local-web-server": "^4.2.0",
     "prettier": "^2.0.5",
     "react-docgen-typescript-loader": "^3.7.2",
-    "stylelint": "^13.6.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-css-modules": "^2.2.0",
     "stylelint-config-idiomatic-order": "^8.1.0",
     "stylelint-config-prettier": "^8.0.1",
